@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**vishal-patidar-02/vishal-patidar-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Vishal Patidar.
+A passionate FullStack web developer from India
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+vishal-patidar-02
+
+🔭 I’m currently working on WanderLust Project
+
+🌱 I’m currently learning React
+
+💬 Ask me about Nodejs, Express, JavaScript, Mongodb, React
+
+📫 How to reach me vishalpatidar07070707@gamil.com
+
+⚡ Fun fact : At least someone loves me and fight for me. I love my white blood cells.
+
+
