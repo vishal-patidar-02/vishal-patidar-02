@@ -3,7 +3,6 @@ Hi 👋, I'm Vishal Patidar.
 A passionate FullStack web developer from India
 
 
-vishal-patidar-02
 
 🔭 I’m currently working on WanderLust Project
 
