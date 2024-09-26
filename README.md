@@ -21,7 +21,7 @@
 - ⚽ I love playing **sports** to refresh my mind and stay active.
 - 💪 I prioritize being **health-conscious** because health is priceless.
 
-- ⚡ Fun fact /*/*: **I’m intrigued by ***वेद*** philosophy; they explore profound concepts!** <br>
+- ⚡ Fun fact  :  **I’m intrigued by  *वेद*  philosophy; they explore profound concepts!** <br>
   <i>The Vedas delve into essential concepts such as dharma (duty), karma (action and consequence), and moksha (liberation), forming a philosophical framework that continues to inspire seekers today!</i>
 
 <hr>
