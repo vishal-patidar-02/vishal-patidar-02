@@ -45,13 +45,7 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-patidar-02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="top langs" />
 </div>
-<hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/vishal-patidar-02/vishal-patidar-02/output/github-contribution-grid-snake.svg" />
-</div>
 
 
 
