@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vishal+Patidar!;" />
 </h1>
 
-<h3 align="center">A passionate FullStack web developer from India</h3>
+<h3 align="center">A passionate FullStack web developer from <b>India</b></h3>
         <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" width="400" alt="" />
 <p align="left"> <a href="https://twitter.com/vishalptdr02" target="blank"><img src="https://img.shields.io/twitter/follow/vishalptdr02?logo=twitter&style=for-the-badge" alt="vishalptdr02" /></a> </p>
 
