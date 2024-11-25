@@ -8,9 +8,9 @@
         <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" align="right" width="400" alt="" />
 <p align="left"> <a href="https://twitter.com/vishalptdr02" target="blank"><img src="https://img.shields.io/twitter/follow/vishalptdr02?logo=twitter&style=for-the-badge" alt="vishalptdr02" /></a> </p>
 
-- 🔭 I’m currently working on **WanderLust**
+- 🔭 I’m currently working on **Metaverse**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Nodejs, Express, JavaScript, Mongodb, React**
 
